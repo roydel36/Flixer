@@ -1,1 +1,155 @@
+body {
+    background-color: #87a96b;
+    font-family: Tahoma, Times, serif;
+    margin: 0px;
+    padding: 0px;
+}
 
+h1 {
+    color: white;
+    font-size: 100px;
+    text-align: center;
+    margin: 0px;
+    text-shadow: 1px 1px 2px black, 0 0 20px #3B6907, 0 0 10px #3B6907;
+}
+
+.heading-image {
+    width: 15%;
+    height: 15%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    background-color: white;
+    width: auto;
+    height: auto;
+    padding: 20px;
+}
+
+
+h2 {
+    text-align: center;
+    color: white;
+    width: 76%;
+    margin: 10px;
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box {
+    background-color: #3B6907;
+    width: auto;
+    height: auto;
+    padding: 20px;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-size: 25px;
+}
+
+.movies-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+  }
+  
+  .movie-card {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px;
+    background-color: black;
+    border-radius: 8px;
+    padding: 10px;
+  }
+  
+  .movie-title {
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .movie-poster {
+    width: 200px;
+    height: auto;
+    margin-top: 10px;
+  }
+  
+  .movie-votes {
+    margin-top: 10px;
+    text-align: center;
+  }
+  
+  .load-more-btn {
+    font-family: Tahoma, Times, serif;
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #3B6907;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+    font-weight: bolder;
+  }
+  
+  .search-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  #search-input {
+    width: 300px;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-right: 10px;
+  }
+  
+  .close-search-btn {
+    width: 24px;
+    height: 24px;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    background-image: url("close-icon.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  p {
+    color: white;
+    margin: 0px;
+    font-family: Tahoma, Times, serif;
+  }
+
+ button {
+    font-family: Tahoma, Times, serif;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: #3B6907;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    border-radius: 50px;
+    font-weight: bolder;
+ }
+
+ #search-form {
+    align-self: center;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+ }
