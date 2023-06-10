@@ -6,7 +6,6 @@ let page = 1;
 let currentMovies = true;
 let searchQuery = '';
 
-
 function fetchMovies() {
     const url = currentMovies
     ? `${BASE_URL}/movie/now_playing?api_key=${API_KEY}&page=${page}`

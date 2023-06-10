@@ -2,7 +2,7 @@
 
 Submitted by: **Roy Delgado**
 
-Estimated time spent: **5** hours spent in total
+Estimated time spent: **6** hours spent in total
 
 Deployed Application (optional): [Flixster Deployed Site](https://roydel36.github.io/Flixer/)
 
