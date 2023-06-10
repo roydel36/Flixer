@@ -4,7 +4,7 @@ Submitted by: **Roy Delgado**
 
 Estimated time spent: **5** hours spent in total
 
-Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
+Deployed Application (optional): [Flixster Deployed Site](https://roydel36.github.io/Flixer/)
 
 ### Application Features
 
@@ -32,7 +32,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 #### Stretch Features
 
-- [ ] Deploy website using GitHub Pages.
+- [X] Deploy website using GitHub Pages.
 - [ ] Allow user to view more details about a movie within a popup.
 - [ ] Improve the user experience through CSS & animation.
 - [ ] Allow movie video trailers to be played using [embedded YouTube](https://support.google.com/youtube/answer/171780?hl=en)
@@ -40,7 +40,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`ADD_EMBEDDED_CODE_HERE`
+https://www.loom.com/share/a252e829f3ac4a86a70d61763e82e0bc
 
 ### Reflection
 
@@ -54,7 +54,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 - Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-`ADD_EMBEDDED_CODE_HERE`
+**When reflecting on my project demo, I would have liked to include a life gif demonstrating my website functionality but I could not get a gif small enough to do use in my slides. I do think my personal explanation was quick enouhg yet detailed to show my progress.**
 
 ### Open-source libraries used
 
@@ -66,4 +66,4 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 Give a shout out to somebody from your cohort that especially helped you during your project. This can be a fellow peer, instructor, TA, mentor, etc.
 
-**Shoutout Anaya and Jordan for helping me understand the Giphy lab and how to load the images.**
+**Shoutout Anaya and Jordan for helping me understand the Giphy lab and how to load the images and Elena for event listener demonstrations.**
